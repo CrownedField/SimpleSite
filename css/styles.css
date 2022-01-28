@@ -939,9 +939,9 @@ body {
 .masthead {
   position: relative;
   width: auto;
-  height: auto;
-  min-height: 0rem;
-  padding: 5rem 0;
+  height: 100%;
+  min-height: 35rem;
+  padding: 15rem 0;
   background: #000;
   background-position: center;
   background-repeat: no-repeat;
